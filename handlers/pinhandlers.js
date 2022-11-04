@@ -1,4 +1,4 @@
-const Pin = require("../Database/pins");
+const Pin = require("../database/pins");
 
 async function createPin(req, res) {
     const {
